@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-13T16:03:06 IST" name="Suite" finished-at="2022-10-13T16:03:17 IST" duration-ms="10993">
+    <groups>
+    </groups>
+    <test started-at="2022-10-13T16:03:06 IST" name="Login Test" finished-at="2022-10-13T16:03:17 IST" duration-ms="10993">
+      <class name="Tests.Login_Test">
+        <test-method is-config="true" signature="openApplication(java.lang.String,java.lang.String)[pri:0, instance:Tests.Login_Test@7d1cfb8b]" started-at="2022-10-13T16:03:06 IST" name="openApplication" finished-at="2022-10-13T16:03:11 IST" duration-ms="5017" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[URL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method is-config="true" signature="openLoginPage()[pri:0, instance:Tests.Login_Test@7d1cfb8b]" started-at="2022-10-13T16:03:11 IST" name="openLoginPage" finished-at="2022-10-13T16:03:11 IST" duration-ms="591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openLoginPage -->
+        <test-method signature="verifyLoginWithInvalidCredentials()[pri:1, instance:Tests.Login_Test@7d1cfb8b]" started-at="2022-10-13T16:03:11 IST" name="verifyLoginWithInvalidCredentials" finished-at="2022-10-13T16:03:12 IST" duration-ms="491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidCredentials -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:Tests.Login_Test@7d1cfb8b]" started-at="2022-10-13T16:03:12 IST" name="logout" finished-at="2022-10-13T16:03:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="openLoginPage()[pri:0, instance:Tests.Login_Test@7d1cfb8b]" started-at="2022-10-13T16:03:12 IST" name="openLoginPage" finished-at="2022-10-13T16:03:12 IST" duration-ms="300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openLoginPage -->
+        <test-method signature="verifyLoginWithValidCredentials()[pri:2, instance:Tests.Login_Test@7d1cfb8b]" started-at="2022-10-13T16:03:12 IST" name="verifyLoginWithValidCredentials" finished-at="2022-10-13T16:03:13 IST" duration-ms="652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCredentials -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:Tests.Login_Test@7d1cfb8b]" started-at="2022-10-13T16:03:13 IST" name="logout" finished-at="2022-10-13T16:03:13 IST" duration-ms="380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="openLoginPage()[pri:0, instance:Tests.Login_Test@7d1cfb8b]" started-at="2022-10-13T16:03:13 IST" name="openLoginPage" finished-at="2022-10-13T16:03:14 IST" duration-ms="323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openLoginPage -->
+        <test-method signature="verifyLoginWithInvalidEmail()[pri:3, instance:Tests.Login_Test@7d1cfb8b]" started-at="2022-10-13T16:03:14 IST" name="verifyLoginWithInvalidEmail" finished-at="2022-10-13T16:03:14 IST" duration-ms="451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidEmail -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:Tests.Login_Test@7d1cfb8b]" started-at="2022-10-13T16:03:14 IST" name="logout" finished-at="2022-10-13T16:03:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="openLoginPage()[pri:0, instance:Tests.Login_Test@7d1cfb8b]" started-at="2022-10-13T16:03:14 IST" name="openLoginPage" finished-at="2022-10-13T16:03:14 IST" duration-ms="256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openLoginPage -->
+        <test-method signature="verifyLoginWithInvalidPassword()[pri:4, instance:Tests.Login_Test@7d1cfb8b]" started-at="2022-10-13T16:03:14 IST" name="verifyLoginWithInvalidPassword" finished-at="2022-10-13T16:03:15 IST" duration-ms="532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidPassword -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:Tests.Login_Test@7d1cfb8b]" started-at="2022-10-13T16:03:15 IST" name="logout" finished-at="2022-10-13T16:03:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="openLoginPage()[pri:0, instance:Tests.Login_Test@7d1cfb8b]" started-at="2022-10-13T16:03:15 IST" name="openLoginPage" finished-at="2022-10-13T16:03:15 IST" duration-ms="292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openLoginPage -->
+        <test-method signature="verifyLoginWithWrongEmail()[pri:5, instance:Tests.Login_Test@7d1cfb8b]" started-at="2022-10-13T16:03:15 IST" name="verifyLoginWithWrongEmail" finished-at="2022-10-13T16:03:16 IST" duration-ms="545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithWrongEmail -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:Tests.Login_Test@7d1cfb8b]" started-at="2022-10-13T16:03:16 IST" name="logout" finished-at="2022-10-13T16:03:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="openLoginPage()[pri:0, instance:Tests.Login_Test@7d1cfb8b]" started-at="2022-10-13T16:03:16 IST" name="openLoginPage" finished-at="2022-10-13T16:03:16 IST" duration-ms="261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openLoginPage -->
+        <test-method signature="verifyLoginWithWrongPassword()[pri:6, instance:Tests.Login_Test@7d1cfb8b]" started-at="2022-10-13T16:03:16 IST" name="verifyLoginWithWrongPassword" finished-at="2022-10-13T16:03:17 IST" duration-ms="654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithWrongPassword -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:Tests.Login_Test@7d1cfb8b]" started-at="2022-10-13T16:03:17 IST" name="logout" finished-at="2022-10-13T16:03:17 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Tests.Login_Test@7d1cfb8b]" started-at="2022-10-13T16:03:17 IST" name="closeBrowser" finished-at="2022-10-13T16:03:17 IST" duration-ms="158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Tests.Login_Test -->
+    </test> <!-- Login Test -->
+  </suite> <!-- Suite -->
+</testng-results>

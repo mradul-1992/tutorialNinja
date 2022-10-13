@@ -1,0 +1,127 @@
+16:02:31.230 [main] DEBUG Tests.UserRegistration_Test - Last Name Entered
+16:02:31.368 [main] DEBUG Tests.UserRegistration_Test - E mail Entered
+16:02:31.465 [main] DEBUG Tests.UserRegistration_Test - Phone Number Entered
+16:02:31.560 [main] DEBUG Tests.UserRegistration_Test - Password Entered
+16:02:31.660 [main] DEBUG Tests.UserRegistration_Test - Confirm Password Entered
+16:02:31.731 [main] DEBUG Tests.UserRegistration_Test - yes to newsletter clicked
+16:02:31.800 [main] DEBUG Tests.UserRegistration_Test - privacy policy accepted
+16:02:32.076 [main] DEBUG Tests.UserRegistration_Test - Continue Button Clicked
+16:02:32.077 [main] INFO  Tests.UserRegistration_Test - Login Success
+16:02:32.079 [main] ERROR Tests.UserRegistration_Test - TestFail
+16:04:16.983 [main] DEBUG Tests.UserRegistration_Test - Landing Page Has been Opened
+16:04:17.073 [main] DEBUG Tests.UserRegistration_Test - My Account Dropdown opened
+16:04:17.541 [main] DEBUG Tests.UserRegistration_Test - Registration Button Clicked
+16:04:18.056 [main] DEBUG Tests.UserRegistration_Test - First Name Entered
+16:04:18.145 [main] DEBUG Tests.UserRegistration_Test - Last Name Entered
+16:04:18.282 [main] DEBUG Tests.UserRegistration_Test - E mail Entered
+16:04:18.380 [main] DEBUG Tests.UserRegistration_Test - Phone Number Entered
+16:04:18.479 [main] DEBUG Tests.UserRegistration_Test - Password Entered
+16:04:18.578 [main] DEBUG Tests.UserRegistration_Test - Confirm Password Entered
+16:04:18.650 [main] DEBUG Tests.UserRegistration_Test - yes to newsletter clicked
+16:04:18.719 [main] DEBUG Tests.UserRegistration_Test - privacy policy accepted
+16:04:19.011 [main] DEBUG Tests.UserRegistration_Test - Continue Button Clicked
+16:04:19.011 [main] INFO  Tests.UserRegistration_Test - Login Success
+16:04:19.011 [main] ERROR Tests.UserRegistration_Test - TestFail
+16:13:44.372 [main] DEBUG Tests.UserRegistration_Test - Landing Page Has been Opened
+16:13:44.457 [main] DEBUG Tests.UserRegistration_Test - My Account Dropdown opened
+16:13:45.130 [main] DEBUG Tests.UserRegistration_Test - Registration Button Clicked
+16:13:45.664 [main] DEBUG Tests.UserRegistration_Test - First Name Entered
+16:13:45.755 [main] DEBUG Tests.UserRegistration_Test - Last Name Entered
+16:13:45.869 [main] DEBUG Tests.UserRegistration_Test - E mail Entered
+16:13:45.961 [main] DEBUG Tests.UserRegistration_Test - Phone Number Entered
+16:13:46.053 [main] DEBUG Tests.UserRegistration_Test - Password Entered
+16:13:46.147 [main] DEBUG Tests.UserRegistration_Test - Confirm Password Entered
+16:13:46.218 [main] DEBUG Tests.UserRegistration_Test - yes to newsletter clicked
+16:13:46.287 [main] DEBUG Tests.UserRegistration_Test - privacy policy accepted
+16:13:46.527 [main] DEBUG Tests.UserRegistration_Test - Continue Button Clicked
+16:13:46.527 [main] INFO  Tests.UserRegistration_Test - Login Success
+16:15:53.076 [main] DEBUG Tests.UserRegistration_Test - Landing Page Has been Opened
+16:15:53.156 [main] DEBUG Tests.UserRegistration_Test - My Account Dropdown opened
+16:15:53.573 [main] DEBUG Tests.UserRegistration_Test - Registration Button Clicked
+16:15:54.006 [main] DEBUG Tests.UserRegistration_Test - First Name Entered
+16:15:54.097 [main] DEBUG Tests.UserRegistration_Test - Last Name Entered
+16:15:54.217 [main] DEBUG Tests.UserRegistration_Test - E mail Entered
+16:15:54.314 [main] DEBUG Tests.UserRegistration_Test - Phone Number Entered
+16:15:54.408 [main] DEBUG Tests.UserRegistration_Test - Password Entered
+16:15:54.506 [main] DEBUG Tests.UserRegistration_Test - Confirm Password Entered
+16:15:54.575 [main] DEBUG Tests.UserRegistration_Test - yes to newsletter clicked
+16:15:54.643 [main] DEBUG Tests.UserRegistration_Test - privacy policy accepted
+16:15:54.891 [main] DEBUG Tests.UserRegistration_Test - Continue Button Clicked
+16:15:54.891 [main] INFO  Tests.UserRegistration_Test - Login Success
+16:18:30.523 [main] DEBUG Tests.UserRegistration_Test - Landing Page Has been Opened
+16:18:30.594 [main] DEBUG Tests.UserRegistration_Test - My Account Dropdown opened
+16:18:30.976 [main] DEBUG Tests.UserRegistration_Test - Registration Button Clicked
+16:18:31.474 [main] DEBUG Tests.UserRegistration_Test - First Name Entered
+16:18:31.564 [main] DEBUG Tests.UserRegistration_Test - Last Name Entered
+16:18:31.696 [main] DEBUG Tests.UserRegistration_Test - E mail Entered
+16:18:31.802 [main] DEBUG Tests.UserRegistration_Test - Phone Number Entered
+16:18:31.902 [main] DEBUG Tests.UserRegistration_Test - Password Entered
+16:18:31.995 [main] DEBUG Tests.UserRegistration_Test - Confirm Password Entered
+16:18:32.068 [main] DEBUG Tests.UserRegistration_Test - yes to newsletter clicked
+16:18:32.135 [main] DEBUG Tests.UserRegistration_Test - privacy policy accepted
+16:18:32.399 [main] DEBUG Tests.UserRegistration_Test - Continue Button Clicked
+16:18:32.401 [main] INFO  Tests.UserRegistration_Test - Login Success
+17:18:10.441 [main] DEBUG Tests.UserRegistration_Test - Landing Page Has been Opened
+17:18:10.506 [main] DEBUG Tests.UserRegistration_Test - My Account Dropdown opened
+17:18:11.364 [main] DEBUG Tests.UserRegistration_Test - Registration Button Clicked
+17:18:11.826 [main] DEBUG Tests.UserRegistration_Test - First Name Entered
+17:18:11.898 [main] DEBUG Tests.UserRegistration_Test - Last Name Entered
+17:18:11.993 [main] DEBUG Tests.UserRegistration_Test - E mail Entered
+17:18:12.068 [main] DEBUG Tests.UserRegistration_Test - Phone Number Entered
+17:18:12.142 [main] DEBUG Tests.UserRegistration_Test - Password Entered
+17:18:12.219 [main] DEBUG Tests.UserRegistration_Test - Confirm Password Entered
+17:18:12.282 [main] DEBUG Tests.UserRegistration_Test - yes to newsletter clicked
+17:18:12.338 [main] DEBUG Tests.UserRegistration_Test - privacy policy accepted
+17:18:12.550 [main] DEBUG Tests.UserRegistration_Test - Continue Button Clicked
+17:18:12.550 [main] INFO  Tests.UserRegistration_Test - Login Success
+17:27:09.742 [main] DEBUG Tests.UserRegistration_Test - Landing Page Has been Opened
+17:27:09.803 [main] DEBUG Tests.UserRegistration_Test - My Account Dropdown opened
+17:27:10.160 [main] DEBUG Tests.UserRegistration_Test - Registration Button Clicked
+17:27:10.545 [main] DEBUG Tests.UserRegistration_Test - First Name Entered
+17:27:10.617 [main] DEBUG Tests.UserRegistration_Test - Last Name Entered
+17:27:10.705 [main] DEBUG Tests.UserRegistration_Test - E mail Entered
+17:27:10.780 [main] DEBUG Tests.UserRegistration_Test - Phone Number Entered
+17:27:10.847 [main] DEBUG Tests.UserRegistration_Test - Password Entered
+17:27:10.918 [main] DEBUG Tests.UserRegistration_Test - Confirm Password Entered
+17:27:10.972 [main] DEBUG Tests.UserRegistration_Test - yes to newsletter clicked
+17:27:11.023 [main] DEBUG Tests.UserRegistration_Test - privacy policy accepted
+17:27:11.227 [main] DEBUG Tests.UserRegistration_Test - Continue Button Clicked
+17:27:11.227 [main] INFO  Tests.UserRegistration_Test - Login Success
+17:28:07.885 [main] DEBUG Tests.UserRegistration_Test - Landing Page Has been Opened
+17:28:07.946 [main] DEBUG Tests.UserRegistration_Test - My Account Dropdown opened
+17:28:08.284 [main] DEBUG Tests.UserRegistration_Test - Registration Button Clicked
+17:28:08.689 [main] DEBUG Tests.UserRegistration_Test - First Name Entered
+17:28:08.761 [main] DEBUG Tests.UserRegistration_Test - Last Name Entered
+17:28:08.853 [main] DEBUG Tests.UserRegistration_Test - E mail Entered
+17:28:08.927 [main] DEBUG Tests.UserRegistration_Test - Phone Number Entered
+17:28:08.999 [main] DEBUG Tests.UserRegistration_Test - Password Entered
+17:28:09.070 [main] DEBUG Tests.UserRegistration_Test - Confirm Password Entered
+17:28:09.128 [main] DEBUG Tests.UserRegistration_Test - yes to newsletter clicked
+17:28:09.182 [main] DEBUG Tests.UserRegistration_Test - privacy policy accepted
+17:28:09.398 [main] DEBUG Tests.UserRegistration_Test - Continue Button Clicked
+17:28:09.398 [main] INFO  Tests.UserRegistration_Test - Login Success
+17:43:52.387 [main] DEBUG Tests.UserRegistration_Test - Landing Page Has been Opened
+17:43:52.455 [main] DEBUG Tests.UserRegistration_Test - My Account Dropdown opened
+17:43:52.816 [main] DEBUG Tests.UserRegistration_Test - Registration Button Clicked
+17:43:53.177 [main] DEBUG Tests.UserRegistration_Test - First Name Entered
+17:43:53.244 [main] DEBUG Tests.UserRegistration_Test - Last Name Entered
+17:43:53.331 [main] DEBUG Tests.UserRegistration_Test - E mail Entered
+17:43:53.409 [main] DEBUG Tests.UserRegistration_Test - Phone Number Entered
+17:43:53.482 [main] DEBUG Tests.UserRegistration_Test - Password Entered
+17:43:53.553 [main] DEBUG Tests.UserRegistration_Test - Confirm Password Entered
+17:43:53.614 [main] DEBUG Tests.UserRegistration_Test - yes to newsletter clicked
+17:43:53.670 [main] DEBUG Tests.UserRegistration_Test - privacy policy accepted
+17:43:53.877 [main] DEBUG Tests.UserRegistration_Test - Continue Button Clicked
+17:43:53.877 [main] INFO  Tests.UserRegistration_Test - Login Success
+17:45:33.514 [main] DEBUG Tests.UserRegistration_Test - Landing Page Has been Opened
+17:45:33.574 [main] DEBUG Tests.UserRegistration_Test - My Account Dropdown opened
+17:45:33.941 [main] DEBUG Tests.UserRegistration_Test - Registration Button Clicked
+17:45:34.031 [main] DEBUG Tests.UserRegistration_Test - First Name Entered
+17:45:34.099 [main] DEBUG Tests.UserRegistration_Test - Last Name Entered
+17:45:34.191 [main] DEBUG Tests.UserRegistration_Test - E mail Entered
+17:45:34.266 [main] DEBUG Tests.UserRegistration_Test - Phone Number Entered
+17:45:34.339 [main] DEBUG Tests.UserRegistration_Test - Password Entered
+17:45:34.408 [main] DEBUG Tests.UserRegistration_Test - Confirm Password Entered
+17:45:34.464 [main] DEBUG Tests.UserRegistration_Test - yes to newsletter clicked
+17:45:34.514 [main] DEBUG Tests.UserRegistration_Test - privacy policy accepted
+17:45:34.724 [main] DEBUG Tests.UserRegistration_Test - Continue Button Clicked

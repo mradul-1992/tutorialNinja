@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="listeners.Listeners" />
+	</listeners>
+	<test name="Registration Test" enabled="false">
+		<parameter name="environment" value="URL"></parameter>
+		<parameter name="browserName" value="Chrome"></parameter>
+		<classes>
+			<class name="Tests.UserRegistration_Test" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="Login Test" enabled="true">
+		<parameter name="environment" value="URL"></parameter>
+		<parameter name="browserName" value="Chrome"></parameter>
+		<classes>
+			<class name="Tests.Login_Test" />
+		</classes>
+	</test> <!-- Test -->
+
+</suite> <!-- Suite -->
