@@ -40,7 +40,7 @@ public class Login_Test extends BasicTestPack{
 		loginPage.getEmailTextBox().sendKeys("mlparihar.vegatva6@gmail.com");
 		loginPage.getPasswordTextBox().sendKeys("One2345");
 		loginPage.getLoginButton().click();
-		if(driver.getTitle().equalsIgnoreCase("My Account")) {
+		if (driver.getTitle().equalsIgnoreCase("My Account")) {
 			loginSuccess = true;
 		} else loginSuccess = false;
 	}
@@ -94,6 +94,17 @@ public class Login_Test extends BasicTestPack{
 		loginPage = new Login_Page(driver);
 		loginPage.getEmailTextBox().sendKeys("mlparihar.vegatva6@gmail.com");
 		loginPage.getPasswordTextBox().sendKeys("One234");
+		loginPage.getLoginButton().click();
+		if(driver.getTitle().equalsIgnoreCase("My Account")) {
+			loginSuccess = true;
+		} else loginSuccess = false;
+	}
+
+	@Test(priority = 7)
+	public void verifyLoginWithoutCredentials() {
+		loginPage = new Login_Page(driver);
+		loginPage.getEmailTextBox().sendKeys("");
+		loginPage.getPasswordTextBox().sendKeys("");
 		loginPage.getLoginButton().click();
 		if(driver.getTitle().equalsIgnoreCase("My Account")) {
 			loginSuccess = true;
